@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at the Smart Grids Lab from the University of Liège, Belgium, where I research Mathematical Modeling techniques to work on very large Energy System models under the supervision of Pr Damien Ernst. 
+I am professor of mathematical optimization at the University of Liège at the Faculty of Engineering since 2007.
 
-Specifically, I am the holder of an [SCK-CEN](https://www.sckcen.be) grant to work on optimization models for the integration of Small Modular (Nuclear) Reactors in the Belgian energy landscape.
+I hold an engineering degree in Applied Mathematics from UCL (Université catholique de Louvain) in 1999 and a PhD in Applied Mathematics for the same university in 2004.
 
-I was previously a visiting researcher at the CRIL, France, under the supervision of Pr Christophe Lecoutre. I hold a PhD in Computer Science & Engineering from UCLouvain, Belgium, obtained in 2021. It was made under the supervision of Pr Pierre Schaus.
+I did postdoctoral stays at the Otto-von-Guericke Universität Magdeburg (Germany) and at EPFL (Switzerland) from 2004 to 2006.
+
+In 2013-2014, I was on sabbatical leave at UC Davis.
 
 Interests
 =========
@@ -19,19 +21,15 @@ Interests
 Main interests:
 
 - Mathematical Optimization
-  - Linear (Mixed-Integer) Programming
-  - **Parametric Programming**
-  - Robust Optimization
-  - Constraint Programming
+  - Mixed-Integer Linear Programming
+  - Parametric Programming
 - Explainable AI
-  - **Human-model interaction**
-  - **Mathematical model transparency**
-- **Declarative (modeling) languages**
-- Algorithms & Data Structures
-- Large Energy Systems models
-- Computer Science & Mathematics education
-  - Automated feedback & grading
-  - Competitive programming
+  - Human-model interaction
+  - Mathematical model transparency
+- Applications of optimization
+  - Scheduling
+  - Energy systems
+  - Biomedical applications
 
-But I also love to explore other areas, on the side! Recent works includes Public Transport Networks and Music, for example.
+But I also love to explore other areas, on the side! 
 
