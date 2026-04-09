@@ -9,16 +9,14 @@ redirect_from:
 
 I am professor of mathematical optimization at the University of Liège at the Faculty of Engineering since 2007.
 
-I hold an engineering degree in Applied Mathematics from UCL (Université catholique de Louvain) in 1999 and a PhD in Applied Mathematics for the same university in 2004.
+I hold an engineering degree in Applied Mathematics from UCL (Université catholique de Louvain) in 1999 and a PhD in Applied Mathematics from the same university in 2004.
 
 I did postdoctoral stays at the Otto-von-Guericke Universität Magdeburg (Germany) and at EPFL (Switzerland) from 2004 to 2006.
 
 In 2013-2014, I was on sabbatical leave at UC Davis.
 
-Interests
+Research Interests
 =========
-
-Main interests:
 
 - Mathematical Optimization
   - Mixed-Integer Linear Programming
