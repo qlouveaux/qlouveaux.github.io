@@ -9,36 +9,36 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Guillaume Derval"
+title                    : "Quentin Louveaux"
 title_separator          : "-"
-name                     : &name "Guillaume Derval"
-description              : &description "Guillaume Derval's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://guillaumederval.be # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Quentin Louveaux"
+description              : &description "Quentin Louveaux's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://qlouveaux.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "guillaumederval/guillaumederval.github.io"
+repository               : "qlouveaux/qlouveaux.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gd.jpeg"
-  name             : "Guillaume Derval"
+  avatar           : "ql.jpeg"
+  name             : "Quentin Louveaux"
   pronouns         : # example: "she/her"  
   bio              : "Computer science researcher specialized in Mathematical Modeling, Optimization (LP, MILP, CP) and its use in Energy Systems."
   location         : "Belgium"
   employer         : "ULiège"
   uri              : # URL
-  email            : "gderval@uliege.be" 
+  email            : "q.louveaux@uliege.be" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=RsfXtBkAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=IZoA2gkAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-6700-3519"
+  orcid            : "https://orcid.org/0000-0003-3458-2435"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "guillaumederval"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : quentin-louveaux-935b85204
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -107,7 +107,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
