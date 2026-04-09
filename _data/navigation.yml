@@ -11,14 +11,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching & Supervision"
+  - title: "Teaching"
     url: /teaching/    
     
   - title: "Projects & tools"
     url: /projects/
-
-  - title: "Services"
-    url: "/services/"
 
   - title: "CV"
     url: /files/cv-louveaux-2026.pdf
