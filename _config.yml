@@ -23,10 +23,10 @@ repository               : "qlouveaux/qlouveaux.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ql.jpeg"
+  avatar           : "ql.jpg"
   name             : "Quentin Louveaux"
   pronouns         : # example: "she/her"  
-  bio              : "Computer science researcher specialized in Mathematical Modeling, Optimization (LP, MILP, CP) and its use in Energy Systems."
+  bio              : "Professor in Mathematical Optimization specialized in Integer Programing (Theory and applications) at ULiège, Belgium."
   location         : "Belgium"
   employer         : "ULiège"
   uri              : # URL
