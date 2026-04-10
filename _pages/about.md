@@ -28,6 +28,7 @@ Research Interests
   - Scheduling
   - Energy systems
   - Biomedical applications
+  - Sports
 
 But I also love to explore other areas, on the side! 
 

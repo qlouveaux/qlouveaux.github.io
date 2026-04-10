@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Cours 
+
 - **[INFO0016-1](https://www.programmes.uliege.be/cocoon/cours/INFO0016-1.html) — Introduction to the Theory of Computation** · 26h th · 26h pr  
   Automata, formal languages, computability and computational complexity.
 
