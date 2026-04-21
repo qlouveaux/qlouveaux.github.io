@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Master thesis topics"
+permalink: /masterthesis/
+author_profile: true
+---
+
 # Master Thesis Topics
 
 ---
