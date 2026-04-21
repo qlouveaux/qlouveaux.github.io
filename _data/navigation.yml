@@ -16,6 +16,9 @@ main:
     
   - title: "Projects & tools"
     url: /projects/
+ 
+  - title: "Master thesis topics"
+    url: /master_thesis/
 
   - title: "CV"
     url: /files/cv-louveaux-2026.pdf
